@@ -1,0 +1,47 @@
+1
+00:00:00,747 --> 00:00:05,499
+Abra a aba Viário. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08,194 --> 00:00:14,719
+Clique em Seção da rua. Corta a rua no km: pista, faixas, guias, calçadas, redes e
+
+3
+00:00:14,719 --> 00:00:15,514
+estrutura.
+
+4
+00:00:18,230 --> 00:00:24,830
+Ande pela rua. As setas andam a seção pelo eixo da rua. O km fica no campo ao lado.
+
+5
+00:00:27,531 --> 00:00:34,021
+A seção. Cada cor é uma classe: pista, sinalização, guia, calçada, redes e estrutura. A
+
+6
+00:00:34,021 --> 00:00:36,483
+largura da pista aparece em cima.
+
+7
+00:00:39,179 --> 00:00:44,470
+As redes embaixo. A tabela lista cada rede cortada, o tipo, se está sob a pista ou a
+
+8
+00:00:44,470 --> 00:00:49,887
+calçada, e a cobertura até a superfície. Por que isso importa: Cobertura pequena sob a
+
+9
+00:00:49,887 --> 00:00:55,431
+pista é rede que pode quebrar com o tráfego ou na obra do pavimento. A seção mostra isso
+
+10
+00:00:55,431 --> 00:00:57,635
+sem abrir planta de interferências.
+
+11
+00:01:00,327 --> 00:01:05,718
+Pergunta rápida. O que é a cobertura da rede na tabela? A distância da rede até a
+
+12
+00:01:05,718 --> 00:01:09,711
+superfície; O diâmetro da tubulação ou A largura da calçada?

@@ -1,0 +1,51 @@
+1
+00:00:00,743 --> 00:00:05,759
+Abra a aba Coordenar. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08,534 --> 00:00:14,683
+Clique em Issues. Issues são os apontamentos do projeto, no padrão BCF que outros programas
+
+3
+00:00:14,683 --> 00:00:15,494
+também leem.
+
+4
+00:00:18,190 --> 00:00:23,350
+Nova issue. Depois deste clique, clique no ponto do problema no modelo.
+
+5
+00:00:26,061 --> 00:00:31,908
+Clique no problema. O balão mostra o objeto, o pavimento e a disciplina antes do clique.
+
+6
+00:00:31,908 --> 00:00:34,101
+Tudo isso entra sozinho na issue.
+
+7
+00:00:36,922 --> 00:00:43,344
+Desenhe e conclua. Ajuste a vista e, se quiser, desenhe por cima: seta, nuvem ou texto.
+
+8
+00:00:43,344 --> 00:00:45,706
+Concluir, ou Enter, tira a foto.
+
+9
+00:00:48,723 --> 00:00:54,476
+Complete os dados. Título, tipo, prioridade, responsável e prazo. Os comentários ficam no
+
+10
+00:00:54,476 --> 00:01:00,359
+histórico da issue. Por que isso importa: A issue leva a foto, a vista com câmera e corte e
+
+11
+00:01:00,359 --> 00:01:05,595
+os objetos. Quem recebe abre o BCF no programa dele e cai exatamente no problema.
+
+12
+00:01:08,428 --> 00:01:14,810
+Pergunta rápida. O que a issue BCF leva junto? Só o texto do problema; A foto, a vista
+
+13
+00:01:14,810 --> 00:01:18,892
+(câmera e corte) e os objetos ou O arquivo IFC inteiro?

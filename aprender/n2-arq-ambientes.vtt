@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:00.742 --> 00:00:05.878
+Abra a aba Visualizar. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08.627 --> 00:00:15.083
+Clique em Ambientes. Mostra os ambientes (IfcSpace) com destaque e etiqueta de nome e área.
+
+3
+00:00:17.791 --> 00:00:24.271
+O destaque. Translúcido deixa ver o que está dentro; sólido mostra o volume; piso pinta só
+
+4
+00:00:24.271 --> 00:00:24.775
+o chão.
+
+5
+00:00:27.581 --> 00:00:33.103
+As etiquetas. Cada ambiente mostra o nome e a área. A cor pode seguir um dado, como o uso
+
+6
+00:00:33.103 --> 00:00:38.751
+ou o pavimento. Por que isso importa: Ambiente sem nome ou com área errada aparece na hora,
+
+7
+00:00:38.751 --> 00:00:43.157
+sem abrir tabela: é a primeira conferência de um modelo de arquitetura.
+
+8
+00:00:46.039 --> 00:00:52.375
+Pergunta rápida. Qual destaque deixa ver o que está dentro do ambiente? Translúcido; Sólido
+
+9
+00:00:52.375 --> 00:00:53.071
+ou Nenhum?

@@ -1,0 +1,31 @@
+1
+00:00:00,746 --> 00:00:05,882
+Abra a aba Visualizar. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08,422 --> 00:00:10,702
+Clique em Vistas salvas
+
+3
+00:00:13,216 --> 00:00:18,861
+Salve a vista atual. Dê um nome (opcional) e clique em Salvar vista atual. Ela guarda a
+
+4
+00:00:18,861 --> 00:00:24,765
+câmera, o corte e o que está visível (Shift+V faz o mesmo). Por que isso importa: Uma vista
+
+5
+00:00:24,765 --> 00:00:30,474
+salva é o jeito de mostrar a mesma coisa para outra pessoa: ela vai junto no .iris e nas
+
+6
+00:00:30,474 --> 00:00:30,928
+issues.
+
+7
+00:00:33,474 --> 00:00:39,855
+Pergunta rápida. O que a vista salva guarda? Só a posição da câmera ou A câmera, o corte e
+
+8
+00:00:39,855 --> 00:00:41,202
+o que está visível?

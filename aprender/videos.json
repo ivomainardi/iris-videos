@@ -1,0 +1,495 @@
+[
+ {
+  "id": "n1-tela",
+  "title": "Conhecer a tela do Iris",
+  "sub": "Abas, modelos, 3D, propriedades e a busca",
+  "arquivo": "n1-tela.mp4",
+  "segundos": 106,
+  "capitulos": [
+   "As abas da faixa de cima",
+   "Os modelos abertos",
+   "A vista 3D",
+   "Propriedades",
+   "A busca (Ctrl+K)",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n1-abrir",
+  "title": "Abrir modelos e salvar o projeto",
+  "sub": "Adicionar IFC, federado e o arquivo .iris",
+  "arquivo": "n1-abrir.mp4",
+  "segundos": 76,
+  "capitulos": [
+   "Adicionar modelos IFC",
+   "O federado",
+   "Salvar o projeto (.iris)",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n1-navegar",
+  "title": "Navegar no 3D",
+  "sub": "Girar, aproximar, enquadrar e o cubo de vistas",
+  "arquivo": "n1-navegar.mp4",
+  "segundos": 66,
+  "capitulos": [
+   "Gire o modelo",
+   "Aproxime com a roda",
+   "O cubo de vistas",
+   "Enquadrar tudo",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n1-selecionar",
+  "title": "Selecionar e ver propriedades",
+  "sub": "Clique, Ctrl+clique e o painel de dados",
+  "arquivo": "n1-selecionar.mp4",
+  "segundos": 54,
+  "capitulos": [
+   "Clique num objeto",
+   "Leia as propriedades",
+   "Some mais um objeto",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n1-esconder",
+  "title": "Esconder, isolar e raio-X",
+  "sub": "Ver só o que interessa e voltar ao normal",
+  "arquivo": "n1-esconder.mp4",
+  "segundos": 72,
+  "capitulos": [
+   "Escolha um objeto",
+   "Clique em Isolar",
+   "Abra a aba Visualizar",
+   "Clique em Raio-X",
+   "Mostrar todos",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n1-corte",
+  "title": "Cortar o modelo",
+  "sub": "Corte por face, mover o plano e desligar",
+  "arquivo": "n1-corte.mp4",
+  "segundos": 69,
+  "capitulos": [
+   "Abra a aba Visualizar",
+   "Clique em Corte",
+   "Clique numa face",
+   "Mova o plano",
+   "Desligue o corte",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n1-medir",
+  "title": "Medir distância e área",
+  "sub": "Encaixes, travas e a janela Medições",
+  "arquivo": "n1-medir.mp4",
+  "segundos": 61,
+  "capitulos": [
+   "Abra a aba Analisar",
+   "Clique em Medir",
+   "Clique em dois pontos",
+   "Travas e outras medidas",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n1-vistas",
+  "title": "Salvar vistas",
+  "sub": "Câmera, corte e visibilidade numa vista",
+  "arquivo": "n1-vistas.mp4",
+  "segundos": 49,
+  "capitulos": [
+   "Abra a aba Visualizar",
+   "Clique em Vistas salvas",
+   "Salve a vista atual",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-infra-eixo",
+  "title": "Eixo, km e faixa da via",
+  "sub": "Eixo e faixa, ir para um km e o km no cursor",
+  "arquivo": "n2-infra-eixo.mp4",
+  "segundos": 86,
+  "capitulos": [
+   "Abra a aba Via Permanente",
+   "Clique em Eixo e faixa",
+   "Vá a um km",
+   "Passe o mouse sobre a via",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-infra-secao",
+  "title": "Seção e gabarito no km",
+  "sub": "Cortar no km, andar pela via e ler a folga",
+  "arquivo": "n2-infra-secao.mp4",
+  "segundos": 100,
+  "capitulos": [
+   "Abra a aba Via Permanente",
+   "Clique em Seção e gabarito",
+   "O km da seção",
+   "Ande para a frente",
+   "Leia a folga",
+   "Seção no 3D",
+   "Calcular ao longo do trecho",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-infra-percorrer",
+  "title": "Percorrer o eixo",
+  "sub": "Andar pela via na cabine, de drone ou de lado",
+  "arquivo": "n2-infra-percorrer.mp4",
+  "segundos": 89,
+  "capitulos": [
+   "Abra a aba Via Permanente",
+   "Clique em Percorrer o eixo",
+   "Ande pelo eixo",
+   "Troque a vista",
+   "Vá direto a um km",
+   "Marque um ponto",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-infra-perfil",
+  "title": "Perfil e diagrama linear",
+  "sub": "Greide, planta, superelevação e velocidade no mesmo km",
+  "arquivo": "n2-infra-perfil.mp4",
+  "segundos": 81,
+  "capitulos": [
+   "Abra a aba Via Permanente",
+   "Clique em Perfil e diagrama linear",
+   "O perfil",
+   "Escolha o trecho",
+   "Do perfil para o 3D",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-infra-rua",
+  "title": "Seção da rua",
+  "sub": "Pista, calçadas e redes cortadas no km",
+  "arquivo": "n2-infra-rua.mp4",
+  "segundos": 78,
+  "capitulos": [
+   "Abra a aba Viário",
+   "Clique em Seção da rua",
+   "Ande pela rua",
+   "A seção",
+   "As redes embaixo",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-est-aco",
+  "title": "Quantitativo e tabela de aço",
+  "sub": "Peso por bitola, tabela por peça e os dados usados",
+  "arquivo": "n2-est-aco.mp4",
+  "segundos": 85,
+  "capitulos": [
+   "Abra a aba Estruturas",
+   "Clique em Quantitativo de aço",
+   "O total e as bitolas",
+   "Tabela de aço",
+   "O que entra",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-est-conferir",
+  "title": "Conferir armadura e taxa",
+  "sub": "Dados das barras, cobrimento e kg por m³",
+  "arquivo": "n2-est-conferir.mp4",
+  "segundos": 82,
+  "capitulos": [
+   "Abra a aba Estruturas",
+   "Clique em Conferir armadura",
+   "As conferências",
+   "Medir cobrimento",
+   "Taxa de armadura",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-arq-acab",
+  "title": "Acabamentos por ambiente",
+  "sub": "Piso, rodapé, parede e forro de cada ambiente",
+  "arquivo": "n2-arq-acab.mp4",
+  "segundos": 75,
+  "capitulos": [
+   "Abra a aba Arquitetura",
+   "Clique em Acabamentos",
+   "O que conta como acabamento",
+   "Analisar ambientes",
+   "O quadro",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n1-buscar",
+  "title": "Achar qualquer coisa com o Ctrl+K",
+  "sub": "Ferramentas, ajustes, atalhos, lições e perguntas",
+  "arquivo": "n1-buscar.mp4",
+  "segundos": 72,
+  "capitulos": [
+   "Abra a busca",
+   "Digite o que procura",
+   "Leia os resultados",
+   "Feche com Esc",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n1-anotar",
+  "title": "Anotar no modelo",
+  "sub": "Um recado preso num ponto do 3D",
+  "arquivo": "n1-anotar.mp4",
+  "segundos": 69,
+  "capitulos": [
+   "Abra a aba Analisar",
+   "Clique em Anotar",
+   "Nova anotação",
+   "Clique no ponto",
+   "Escreva e salve",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-dados-saude",
+  "title": "Saúde do modelo",
+  "sub": "Nota de 0 a 100 e o que corrigir no IFC",
+  "arquivo": "n2-dados-saude.mp4",
+  "segundos": 61,
+  "capitulos": [
+   "Abra a aba Gestão IFC",
+   "Clique em Saúde do modelo",
+   "Escolha o modelo",
+   "Analisar",
+   "Leve o relatório",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-dados-listas",
+  "title": "Listas e quantitativos",
+  "sub": "Tabela de portas, colunas, cascata e total",
+  "arquivo": "n2-dados-listas.mp4",
+  "segundos": 75,
+  "capitulos": [
+   "Abra a aba Analisar",
+   "Clique em Listas",
+   "Uma lista pronta",
+   "A tabela",
+   "Cascata",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-dados-inspetor",
+  "title": "Inspetor IFC",
+  "sub": "Como o objeto está escrito no arquivo",
+  "arquivo": "n2-dados-inspetor.mp4",
+  "segundos": 53,
+  "capitulos": [
+   "Abra a aba Gestão IFC",
+   "Clique em Inspetor",
+   "Escolha um objeto",
+   "Modo aprendizado",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-des-planta",
+  "title": "Planta 2D ao vivo",
+  "sub": "A planta do pavimento junto do 3D",
+  "arquivo": "n2-des-planta.mp4",
+  "segundos": 79,
+  "capitulos": [
+   "Abra a aba Visualizar",
+   "Clique em Planta 2D ao vivo",
+   "Troque de pavimento",
+   "A altura do corte",
+   "Corte A–A",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-des-cotas",
+  "title": "Cotas automáticas",
+  "sub": "Comprimento, largura e altura de cada objeto",
+  "arquivo": "n2-des-cotas.mp4",
+  "segundos": 76,
+  "capitulos": [
+   "Abra a aba Analisar",
+   "Clique em Cotas automáticas",
+   "Cotar os visíveis",
+   "As cotas no 3D",
+   "Apagar as automáticas",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-arq-ambientes",
+  "title": "Ambientes e áreas",
+  "sub": "Destaque, nome e área de cada ambiente",
+  "arquivo": "n2-arq-ambientes.mp4",
+  "segundos": 61,
+  "capitulos": [
+   "Abra a aba Visualizar",
+   "Clique em Ambientes",
+   "O destaque",
+   "As etiquetas",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n3-entrega",
+  "title": "Preparar a planta do 2º pavimento",
+  "sub": "Planta 2D, anotação e vista salva",
+  "arquivo": "n3-entrega.mp4",
+  "segundos": 54,
+  "capitulos": [
+   "Meta 2: vá ao 2º pavimento",
+   "Meta 3: deixe um recado",
+   "Meta 4: salve a vista",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-coord-clash",
+  "title": "Interferências entre disciplinas",
+  "sub": "Prédio × instalações, gravidade e ir até cada uma",
+  "arquivo": "n2-coord-clash.mp4",
+  "segundos": 90,
+  "capitulos": [
+   "Abra a aba Coordenar",
+   "Clique em Interferências",
+   "Os grupos A e B",
+   "Rodar",
+   "O tubo de queda",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-coord-dups",
+  "title": "Duplicados e objetos voando",
+  "sub": "Peças lançadas duas vezes e peças soltas no espaço",
+  "arquivo": "n2-coord-dups.mp4",
+  "segundos": 60,
+  "capitulos": [
+   "Abra a aba Coordenar",
+   "Clique em Duplicados",
+   "Procurar duplicados",
+   "Clique em Objetos voando",
+   "Procurar objetos voando",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-coord-issue",
+  "title": "Registrar uma issue (BCF)",
+  "sub": "Foto, vista e objeto do problema num apontamento",
+  "arquivo": "n2-coord-issue.mp4",
+  "segundos": 87,
+  "capitulos": [
+   "Abra a aba Coordenar",
+   "Clique em Issues",
+   "Nova issue",
+   "Clique no problema",
+   "Desenhe e conclua",
+   "Complete os dados",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-inst-redes",
+  "title": "Redes e sistemas",
+  "sub": "Esgoto, água fria e cada rede com a sua cor",
+  "arquivo": "n2-inst-redes.mp4",
+  "segundos": 35,
+  "capitulos": [
+   "Abra a aba Hidráulica",
+   "Clique em Redes",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-inst-caimento",
+  "title": "Caimento dos tubos",
+  "sub": "Inclinação de cada trecho contra a NBR 8160",
+  "arquivo": "n2-inst-caimento.mp4",
+  "segundos": 69,
+  "capitulos": [
+   "Abra a aba Hidráulica",
+   "Clique em Caimento",
+   "Os que não atendem",
+   "O que entra",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-inst-rastrear",
+  "title": "Rastrear a rede",
+  "sub": "Tudo o que está ligado a um tubo",
+  "arquivo": "n2-inst-rastrear.mp4",
+  "segundos": 73,
+  "capitulos": [
+   "Abra a aba Hidráulica",
+   "Clique em Rastrear rede",
+   "Rastrear",
+   "Escolha o tubo e conclua",
+   "O caminho",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n3-compat",
+  "title": "Compatibilizar instalações e estrutura",
+  "sub": "Interferências, issue e vista para a reunião",
+  "arquivo": "n3-compat.mp4",
+  "segundos": 74,
+  "capitulos": [
+   "Meta 1: rode as interferências",
+   "Meta 2: selecione o tubo de queda",
+   "Meta 3: registre uma issue",
+   "Meta 4: salve a vista",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n3-auditoria",
+  "title": "Auditar o modelo antes de usar",
+  "sub": "Saúde, duplicados e objetos fora do lugar",
+  "arquivo": "n3-auditoria.mp4",
+  "segundos": 68,
+  "capitulos": [
+   "Meta 1: analise a saúde",
+   "Meta 2: ache o duplicado",
+   "Meta 3: ache a peça solta",
+   "Meta 4: veja só o esgoto",
+   "Pergunta rápida"
+  ]
+ },
+ {
+  "id": "n2-vu-calcadas",
+  "title": "Calçadas e acessibilidade",
+  "sub": "Faixa livre, rebaixos, piso tátil e altura livre",
+  "arquivo": "n2-vu-calcadas.mp4",
+  "segundos": 52,
+  "capitulos": [
+   "Abra a aba Viário",
+   "Clique em Calçadas e acessibilidade",
+   "O que entra",
+   "Conferir",
+   "Pergunta rápida"
+  ]
+ }
+]

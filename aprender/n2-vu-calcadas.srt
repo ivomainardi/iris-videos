@@ -1,0 +1,27 @@
+1
+00:00:00,755 --> 00:00:05,507
+Abra a aba Viário. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08,310 --> 00:00:14,468
+Clique em Calçadas e acessibilidade. Confere as calçadas ao longo dos eixos e as pontas das
+
+3
+00:00:14,468 --> 00:00:15,822
+faixas de pedestres.
+
+4
+00:00:18,521 --> 00:00:24,606
+O que entra. Calçada, pista, faixas de pedestres, rebaixos e piso tátil, cada um com a sua
+
+5
+00:00:24,606 --> 00:00:28,121
+regra. Automático reconhece pelo nome e pela classe.
+
+6
+00:00:30,826 --> 00:00:32,698
+Conferir
+
+7
+00:00:35,454 --> 00:00:44,454
+Pergunta rápida. Qual a inclinação máxima de um rebaixo de calçada? 8,33 %; 20 % ou 1 %?

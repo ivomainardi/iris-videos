@@ -1,0 +1,39 @@
+1
+00:00:00,742 --> 00:00:07,531
+Meta 1: analise a saúde. Analise a saúde do modelo de instalações. Por que isso importa:
+
+2
+00:00:07,531 --> 00:00:10,462
+Dica: aba Gestão IFC, Saúde do modelo.
+
+3
+00:00:13,161 --> 00:00:20,088
+Meta 2: ache o duplicado. Ache a peça lançada duas vezes. Por que isso importa: Dica: aba
+
+4
+00:00:20,088 --> 00:00:21,801
+Coordenar, Duplicados.
+
+5
+00:00:24,504 --> 00:00:31,291
+Meta 3: ache a peça solta. Ache a peça que ficou longe de tudo. Por que isso importa: Dica:
+
+6
+00:00:31,291 --> 00:00:33,528
+aba Coordenar, Objetos voando.
+
+7
+00:00:36,234 --> 00:00:42,498
+Meta 4: veja só o esgoto. Mostre as redes do modelo e veja quantos metros de tubo tem o
+
+8
+00:00:42,498 --> 00:00:46,674
+esgoto. Por que isso importa: Dica: aba Hidráulica, Redes.
+
+9
+00:00:49,385 --> 00:00:54,890
+Pergunta rápida. Por que auditar antes de tirar quantitativo? Duplicados e peças soltas
+
+10
+00:00:54,890 --> 00:01:00,521
+entram na conta e o número sai errado; Para o arquivo ficar menor ou Não precisa auditar?

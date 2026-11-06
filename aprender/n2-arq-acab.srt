@@ -1,0 +1,47 @@
+1
+00:00:00,743 --> 00:00:05,783
+Abra a aba Arquitetura. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08,511 --> 00:00:13,887
+Clique em Acabamentos. Abre a análise de acabamentos por ambiente (IfcSpace).
+
+3
+00:00:16,595 --> 00:00:22,118
+O que conta como acabamento. Piso, rodapé, parede e forro têm cada um a sua regra.
+
+4
+00:00:22,118 --> 00:00:27,035
+Automático já pega os revestimentos (IfcCovering) e os nomes mais comuns.
+
+5
+00:00:29,754 --> 00:00:35,470
+Analisar ambientes. O Iris olha cada ambiente por dentro e acha o que cobre o piso, as
+
+6
+00:00:35,470 --> 00:00:36,666
+paredes e o forro.
+
+7
+00:00:39,382 --> 00:00:44,951
+O quadro. Uma linha por ambiente, com o acabamento e a área de cada superfície. Clique num
+
+8
+00:00:44,951 --> 00:00:50,335
+ambiente para vê-lo no 3D. Por que isso importa: O quadro de acabamentos sai do próprio
+
+9
+00:00:50,335 --> 00:00:55,533
+modelo: muda o modelo, refaz a análise e o quadro acompanha, sem conferir planta por
+
+10
+00:00:55,533 --> 00:00:55,966
+planta.
+
+11
+00:00:59,017 --> 00:01:05,230
+Pergunta rápida. De onde a ferramenta tira a lista de ambientes? Dos IfcSpace do modelo;
+
+12
+00:01:05,230 --> 00:01:07,489
+Das portas ou Das vistas salvas?

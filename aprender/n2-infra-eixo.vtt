@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.812 --> 00:00:06.428
+Abra a aba Via Permanente. As ferramentas de via ficam nesta aba de disciplina.
+
+2
+00:00:09.142 --> 00:00:15.515
+Clique em Eixo e faixa. Mostra o eixo (IfcAlignment) com as marcas de km e a faixa da via:
+
+3
+00:00:15.515 --> 00:00:21.817
+de 1 m abaixo a 3 m acima do trilho. Por que isso importa: Em obra linear todo mundo fala
+
+4
+00:00:21.817 --> 00:00:27.694
+em km. Com o eixo à vista, a conversa da equipe e o modelo usam a mesma referência.
+
+5
+00:00:30.579 --> 00:00:38.589
+Vá a um km. No campo km, digite por exemplo 10+250 e clique em Ir para o km. A câmera vai
+
+6
+00:00:38.589 --> 00:00:40.659
+até lá, olhando o eixo.
+
+7
+00:00:44.883 --> 00:00:50.363
+Passe o mouse sobre a via. O balão mostra o km do ponto, o afastamento do eixo (à esquerda
+
+8
+00:00:50.363 --> 00:00:55.417
+ou à direita) e a altura sobre o greide. Por que isso importa: Serve para localizar
+
+9
+00:00:55.417 --> 00:01:00.106
+qualquer coisa do modelo no estaqueamento sem medir nada: um equipamento, uma
+
+10
+00:01:00.106 --> 00:01:02.115
+interferência, um ponto da issue.
+
+11
+00:01:05.711 --> 00:01:11.883
+Pergunta rápida. O que o km no cursor mostra? A velocidade de projeto do trecho; O km, o
+
+12
+00:01:11.883 --> 00:01:17.495
+afastamento do eixo e a altura sobre o greide ou O peso do trilho naquele ponto?

@@ -1,0 +1,55 @@
+1
+00:00:00,745 --> 00:00:06,097
+Abra a aba Via Permanente. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:09,351 --> 00:00:15,282
+Clique em Percorrer o eixo. Liga o percurso: a câmera passa a andar pelo eixo e aparece a
+
+3
+00:00:15,282 --> 00:00:16,215
+barra embaixo.
+
+4
+00:00:18,920 --> 00:00:25,018
+Ande pelo eixo. Este botão (ou a barra de espaço) anda e para. O + e o − mudam a
+
+5
+00:00:25,018 --> 00:00:25,856
+velocidade.
+
+6
+00:00:30,119 --> 00:00:35,858
+Troque a vista. Cabine é o olhar do maquinista; Drone vê de cima e de trás; Lateral
+
+7
+00:00:35,858 --> 00:00:37,103
+acompanha de lado.
+
+8
+00:00:40,993 --> 00:00:47,684
+Vá direto a um km. Digite o km e aperte Enter. Em Paradas ficam as estações, os aparelhos
+
+9
+00:00:47,684 --> 00:00:50,617
+de mudança de via e os seus marcadores.
+
+10
+00:00:53,766 --> 00:00:59,348
+Marque um ponto. Marcar guarda o km atual no projeto, para voltar depois ou mostrar para a
+
+11
+00:00:59,348 --> 00:01:04,744
+equipe. Por que isso importa: Percorrer mostra o que o projeto parece para quem anda na
+
+12
+00:01:04,744 --> 00:01:10,078
+via: sinal escondido, equipamento perto demais, mudança brusca. O marcador não deixa o
+
+13
+00:01:10,078 --> 00:01:11,070
+ponto se perder.
+
+14
+00:01:14,624 --> 00:01:20,864
+Pergunta rápida. Qual vista mostra o que o maquinista vê? Drone; Cabine ou Lateral?

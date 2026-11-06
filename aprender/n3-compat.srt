@@ -1,0 +1,47 @@
+1
+00:00:00,742 --> 00:00:06,263
+Meta 1: rode as interferências. Rode um teste de interferências entre o prédio e as
+
+2
+00:00:06,263 --> 00:00:11,851
+instalações. Por que isso importa: Dica: aba Coordenar, Interferências; prédio em A,
+
+3
+00:00:11,851 --> 00:00:12,982
+instalações em B.
+
+4
+00:00:15,901 --> 00:00:21,782
+Meta 2: selecione o tubo de queda. Deixe selecionado o tubo de queda, a peça que mais fura
+
+5
+00:00:21,782 --> 00:00:27,402
+a estrutura. Por que isso importa: Dica: clique na linha dele no resultado, ou procure
+
+6
+00:00:27,402 --> 00:00:29,101
+"tubo de queda" no Ctrl+K.
+
+7
+00:00:31,844 --> 00:00:37,987
+Meta 3: registre uma issue. Crie uma issue para o problema, com a foto do ponto. Por que
+
+8
+00:00:37,987 --> 00:00:41,756
+isso importa: Dica: aba Coordenar, Issues, Nova issue.
+
+9
+00:00:44,845 --> 00:00:51,551
+Meta 4: salve a vista. Salve uma vista para abrir direto na reunião. Por que isso importa:
+
+10
+00:00:51,551 --> 00:00:54,085
+Dica: Shift+V salva a vista atual.
+
+11
+00:00:57,109 --> 00:01:03,696
+Pergunta rápida. Na reunião, o que abre direto no problema? A vista salva e a issue; O
+
+12
+00:01:03,696 --> 00:01:06,301
+arquivo IFC ou A lista de modelos?

@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.745 --> 00:00:05.665
+Abra a aba Analisar. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08.482 --> 00:00:13.906
+Clique em Listas. Monta tabelas com os objetos do modelo e os dados deles.
+
+3
+00:00:16.625 --> 00:00:23.183
+Uma lista pronta. Escolha Portas e janelas. Para outros objetos, diga quais entram com
+
+4
+00:00:23.183 --> 00:00:23.945
+condições.
+
+5
+00:00:26.656 --> 00:00:32.907
+A tabela. Uma linha por objeto, com as colunas escolhidas. O rodapé conta os objetos e soma
+
+6
+00:00:32.907 --> 00:00:36.616
+os números. Clique numa linha para ver o objeto no 3D.
+
+7
+00:00:39.312 --> 00:00:45.216
+Cascata. Agrupa por uma coluna, como o pavimento, com subtotal em cada grupo. Exportar leva
+
+8
+00:00:45.216 --> 00:00:51.119
+a tabela para o Excel. Por que isso importa: A lista sai do próprio modelo: mudou o modelo,
+
+9
+00:00:51.119 --> 00:00:54.168
+a tabela acompanha. Sem contar à mão em planta.
+
+10
+00:00:56.902 --> 00:01:02.457
+Pergunta rápida. De onde vêm os números da lista? Do próprio modelo, e mudam quando ele
+
+11
+00:01:02.457 --> 00:01:06.862
+muda; De uma planilha digitada à parte ou De uma estimativa por área?

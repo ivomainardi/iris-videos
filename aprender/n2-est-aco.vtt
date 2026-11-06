@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:00.748 --> 00:00:06.196
+Abra a aba Estruturas. As ferramentas de estrutura ficam nesta aba de disciplina.
+
+2
+00:00:08.909 --> 00:00:14.669
+Clique em Quantitativo de aço. Soma o peso de aço das barras (IfcReinforcingBar) por
+
+3
+00:00:14.669 --> 00:00:17.069
+bitola, peça, pavimento ou posição.
+
+4
+00:00:19.784 --> 00:00:25.778
+O total e as bitolas. O número grande é o peso de aço. Cada linha é uma bitola, com barras,
+
+5
+00:00:25.778 --> 00:00:31.707
+metros e kg. No 3D, as barras ficam com a cor da bitola. Por que isso importa: Peso de aço
+
+6
+00:00:31.707 --> 00:00:37.701
+por bitola é o que vai para o orçamento e para a compra. Tirar do modelo evita somar tabela
+
+7
+00:00:37.701 --> 00:00:38.096
+à mão.
+
+8
+00:00:40.796 --> 00:00:46.474
+Tabela de aço. Uma linha por peça, posição e bitola, com quantidade, comprimentos e peso,
+
+9
+00:00:46.474 --> 00:00:48.068
+como a tabela da prancha.
+
+10
+00:00:50.773 --> 00:00:56.888
+O que entra. Aqui ficam as barras e os dados usados: bitola, comprimento, peça e posição.
+
+11
+00:00:56.888 --> 00:01:00.805
+Se o modelo grava com outro nome, troque em Dados usados.
+
+12
+00:01:03.496 --> 00:01:09.942
+Pergunta rápida. Quando o modelo não traz o peso da barra, de onde ele sai? Do volume da
+
+13
+00:01:09.942 --> 00:01:16.607
+peça de concreto; Do comprimento vezes a massa nominal da bitola (NBR 7480) ou De uma média
+
+14
+00:01:16.607 --> 00:01:17.632
+por pavimento?

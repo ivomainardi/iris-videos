@@ -1,0 +1,71 @@
+1
+00:00:00,747 --> 00:00:06,262
+As abas da faixa de cima. Cada aba junta as ferramentas de um assunto: Início, Visualizar,
+
+2
+00:00:06,262 --> 00:00:11,532
+Analisar, Coordenar… Depois da barrinha vêm as abas das disciplinas, como Arquitetura,
+
+3
+00:00:11,532 --> 00:00:17,047
+Estruturas e Via Permanente. Por que isso importa: As análises de cada disciplina ficam na
+
+4
+00:00:17,047 --> 00:00:22,563
+aba dela. Sabendo isso, você vai direto ao lugar certo em vez de procurar botão por botão.
+
+5
+00:00:25,093 --> 00:00:30,868
+Os modelos abertos. Cada arquivo IFC aberto aparece aqui. O olho liga e desliga o modelo, a
+
+6
+00:00:30,868 --> 00:00:36,326
+paleta pinta e o botão direito tem mais opções. Por que isso importa: Num federado com
+
+7
+00:00:36,326 --> 00:00:42,037
+dezenas de modelos, ligar e desligar por aqui é o jeito mais rápido de ver só a disciplina
+
+8
+00:00:42,037 --> 00:00:42,925
+que interessa.
+
+9
+00:00:45,441 --> 00:00:51,721
+A vista 3D. É onde o modelo aparece. Você gira, aproxima, clica nos objetos e vê o
+
+10
+00:00:51,721 --> 00:00:53,865
+resultado das análises aqui.
+
+11
+00:00:56,379 --> 00:01:02,211
+Propriedades. Ao clicar num objeto, os dados dele aparecem nesta janela à direita, com
+
+12
+00:01:02,211 --> 00:01:03,771
+unidade e tipo de dado.
+
+13
+00:01:06,294 --> 00:01:11,723
+A busca (Ctrl+K). Digite o nome de qualquer ferramenta, ajuste ou objeto. Ela também
+
+14
+00:01:11,723 --> 00:01:17,540
+entende pedidos como "medir distância" e mostra onde clicar. Por que isso importa: Ninguém
+
+15
+00:01:17,540 --> 00:01:23,228
+decora as mais de 150 ferramentas. Com o Ctrl+K você acha qualquer uma e o botão Mostrar
+
+16
+00:01:23,228 --> 00:01:25,038
+onde aponta a aba e o botão.
+
+17
+00:01:27,548 --> 00:01:33,407
+Pergunta rápida. Você não lembra em que aba fica uma ferramenta. O que faz? Procuro na
+
+18
+00:01:33,407 --> 00:01:38,108
+lista de Modelos; Digito o nome no Ctrl+K ou Clico no cubo de vistas?

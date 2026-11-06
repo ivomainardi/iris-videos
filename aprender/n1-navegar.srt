@@ -1,0 +1,43 @@
+1
+00:00:00,755 --> 00:00:06,154
+Gire o modelo. Arraste com o botão esquerdo. O giro é em volta do ponto que está sob o
+
+2
+00:00:06,154 --> 00:00:11,616
+mouse. Por que isso importa: Girar em volta do ponto sob o mouse deixa você examinar um
+
+3
+00:00:11,616 --> 00:00:13,499
+detalhe sem perdê-lo de vista.
+
+4
+00:00:16,077 --> 00:00:22,150
+Aproxime com a roda. Gire a roda do mouse em cima do que quer ver de perto. O botão do meio
+
+5
+00:00:22,150 --> 00:00:23,685
+arrastado move a vista.
+
+6
+00:00:26,279 --> 00:00:32,675
+O cubo de vistas. Clique numa face, como Topo ou Sul, para uma vista alinhada. As setas
+
+7
+00:00:32,675 --> 00:00:34,439
+giram de 90 em 90 graus.
+
+8
+00:00:36,953 --> 00:00:43,372
+Enquadrar tudo. Volta a mostrar o modelo inteiro (tecla Home). A tecla F enquadra só o que
+
+9
+00:00:43,372 --> 00:00:44,585
+está selecionado.
+
+10
+00:00:47,120 --> 00:00:53,058
+Pergunta rápida. Você se perdeu dentro do modelo. Qual o jeito mais rápido de ver tudo de
+
+11
+00:00:53,058 --> 00:00:58,328
+novo? Fechar e abrir o arquivo; Tecla Home ou o botão Enquadrar ou Zerar vista?

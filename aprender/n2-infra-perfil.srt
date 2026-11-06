@@ -1,0 +1,47 @@
+1
+00:00:00,746 --> 00:00:06,098
+Abra a aba Via Permanente. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08,841 --> 00:00:14,121
+Clique em Perfil e diagrama linear. Abre o perfil do eixo na janela de baixo.
+
+3
+00:00:16,828 --> 00:00:22,449
+O perfil. Em cima, o greide e o terreno (com a cobertura entre eles) e os modelos ao longo
+
+4
+00:00:22,449 --> 00:00:28,133
+do eixo. Embaixo, a planta, a superelevação e a velocidade, todos no mesmo km. Por que isso
+
+5
+00:00:28,133 --> 00:00:33,567
+importa: O diagrama linear junta numa folha o que está espalhado em várias pranchas: dá
+
+6
+00:00:33,567 --> 00:00:37,252
+para ver onde a curva, a rampa e a velocidade se encontram.
+
+7
+00:00:40,345 --> 00:00:46,645
+Escolha o trecho. Digite o km de início e de fim, ou clique em Inteiro para o eixo todo. O
+
+8
+00:00:46,645 --> 00:00:49,585
+exagero vertical deixa as rampas visíveis.
+
+9
+00:00:52,288 --> 00:00:58,919
+Do perfil para o 3D. Passe o mouse no perfil para ver os valores no km; clique para levar o
+
+10
+00:00:58,919 --> 00:01:00,376
+3D até aquele ponto.
+
+11
+00:01:03,098 --> 00:01:08,574
+Pergunta rápida. Para que serve o exagero vertical? Para deixar as rampas visíveis no
+
+12
+00:01:08,574 --> 00:01:13,082
+desenho; Para mudar o greide do projeto ou Para aumentar a velocidade?

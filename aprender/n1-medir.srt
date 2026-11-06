@@ -1,0 +1,35 @@
+1
+00:00:00,746 --> 00:00:05,666
+Abra a aba Analisar. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08,176 --> 00:00:12,448
+Clique em Medir. Liga a medida de distância (tecla M).
+
+3
+00:00:14,965 --> 00:00:20,713
+Clique em dois pontos. A bolinha do mouse encaixa em vértices, meios e arestas. A distância
+
+4
+00:00:20,713 --> 00:00:26,271
+aparece no 3D e na janela Medições. Por que isso importa: O encaixe garante que a medida
+
+5
+00:00:26,271 --> 00:00:30,565
+vai de canto a canto de verdade, e não de um ponto qualquer da face.
+
+6
+00:00:33,080 --> 00:00:38,667
+Travas e outras medidas. Durante a medição, a tecla Q troca a trava (livre, vertical,
+
+7
+00:00:38,667 --> 00:00:44,648
+horizontal…). Nesta janela também ficam Área, Perímetro e a lixeira para apagar as medidas.
+
+8
+00:00:47,159 --> 00:00:53,414
+Pergunta rápida. Durante a medição, que tecla troca a trava (vertical, horizontal…)? Q; T
+
+9
+00:00:53,414 --> 00:00:54,047
+ou Shift?

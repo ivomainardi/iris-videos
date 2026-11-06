@@ -1,0 +1,43 @@
+1
+00:00:00,762 --> 00:00:05,970
+Abra a busca. Clique aqui ou aperte Ctrl+K em qualquer lugar do Iris.
+
+2
+00:00:08,669 --> 00:00:14,832
+Digite o que procura. Escreva corte. A lista mostra a ferramenta, os atalhos, os ajustes e
+
+3
+00:00:14,832 --> 00:00:16,613
+as lições sobre o assunto.
+
+4
+00:00:19,320 --> 00:00:24,917
+Leia os resultados. Cada linha diz o que é: ferramenta com a aba onde fica, roteiro do Me
+
+5
+00:00:24,917 --> 00:00:30,577
+mostre, lição, atalho ou ajuste. Enter abre a linha marcada; Mostrar onde aponta a aba e o
+
+6
+00:00:30,577 --> 00:00:36,237
+botão. Por que isso importa: Ninguém decora mais de 150 ferramentas. Pela busca você chega
+
+7
+00:00:36,237 --> 00:00:41,016
+em qualquer uma e, com o Mostrar onde, aprende o caminho para a próxima vez.
+
+8
+00:00:43,710 --> 00:00:50,618
+Feche com Esc. Esc fecha a busca sem abrir nada. Ela também entende perguntas, como portas
+
+9
+00:00:50,618 --> 00:00:51,846
+do 2º pavimento.
+
+10
+00:00:54,549 --> 00:01:00,767
+Pergunta rápida. O que a busca do Ctrl+K não acha? Ferramentas e ajustes; Atalhos e lições
+
+11
+00:01:00,767 --> 00:01:03,669
+ou Arquivos que não estão abertos no Iris?

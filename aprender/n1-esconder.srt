@@ -1,0 +1,43 @@
+1
+00:00:00,749 --> 00:00:04,853
+Escolha um objeto. Clique numa parede ou numa laje.
+
+2
+00:00:07,387 --> 00:00:13,210
+Clique em Isolar. Fica só o que está selecionado (tecla I). Nada é apagado: o resto só sai
+
+3
+00:00:13,210 --> 00:00:18,903
+da vista. Por que isso importa: Isolar é o jeito mais rápido de conferir uma peça: sem o
+
+4
+00:00:18,903 --> 00:00:22,915
+resto do prédio na frente, você vê a forma e as ligações dela.
+
+5
+00:00:25,463 --> 00:00:30,599
+Abra a aba Visualizar. A ferramenta fica nesta aba da faixa de cima.
+
+6
+00:00:33,115 --> 00:00:39,692
+Clique em Raio-X. Com o Raio-X (tecla X), o resto do modelo volta transparente: você vê a
+
+7
+00:00:39,692 --> 00:00:41,539
+peça isolada no contexto.
+
+8
+00:00:44,055 --> 00:00:49,551
+Mostrar todos. Traz de volta tudo o que foi escondido ou isolado (Shift+H).
+
+9
+00:00:52,080 --> 00:00:58,257
+Pergunta rápida. Qual a diferença entre ocultar (H) e isolar (I)? Nenhuma, as duas fazem o
+
+10
+00:00:58,257 --> 00:01:04,227
+mesmo; Ocultar tira o escolhido; isolar deixa só o escolhido ou Isolar apaga o resto do
+
+11
+00:01:04,227 --> 00:01:04,776
+arquivo?

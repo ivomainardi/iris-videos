@@ -1,0 +1,27 @@
+1
+00:00:00,744 --> 00:00:06,120
+Abra a aba Gestão IFC. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08,899 --> 00:00:14,323
+Clique em Inspetor. Mostra o objeto como ele está gravado no .ifc.
+
+3
+00:00:17,024 --> 00:00:22,712
+Escolha um objeto. Clique numa porta ou parede. O inspetor segue a seleção.
+
+4
+00:00:25,450 --> 00:00:31,253
+Modo aprendizado. Explica cada atributo e a hierarquia da classe, de IfcDoor até
+
+5
+00:00:31,253 --> 00:00:32,050
+IfcProduct.
+
+6
+00:00:34,863 --> 00:00:40,630
+Pergunta rápida. O que é o número com cerquilha numa linha do IFC? Uma referência a outra
+
+7
+00:00:40,630 --> 00:00:44,583
+linha do arquivo; O preço do objeto ou O número do pavimento?

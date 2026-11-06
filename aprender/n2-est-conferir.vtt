@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.755 --> 00:00:05.795
+Abra a aba Estruturas. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08.503 --> 00:00:14.095
+Clique em Conferir armadura. Confere os dados das barras e, ao clicar, o cobrimento.
+
+3
+00:00:16.797 --> 00:00:22.486
+As conferências. Cada linha conta um tipo de problema: posição com mais de uma bitola,
+
+4
+00:00:22.486 --> 00:00:27.381
+barra acima de 12 m, código de dobra, dados vazios e bitola fora da norma.
+
+5
+00:00:30.075 --> 00:00:35.766
+Medir cobrimento. Compara cada barra com as faces da peça de concreto em volta e aponta
+
+6
+00:00:35.766 --> 00:00:41.391
+cobrimento abaixo do mínimo (NBR 6118) e barra fora do concreto. Por que isso importa:
+
+7
+00:00:41.391 --> 00:00:47.278
+Cobrimento pequeno é corrosão e problema de durabilidade; barra fora do concreto é erro de
+
+8
+00:00:47.278 --> 00:00:49.371
+modelagem que passa para a obra.
+
+9
+00:00:52.079 --> 00:00:58.946
+Taxa de armadura. Mostra os kg de aço por m³ de concreto em cada peça, com a faixa esperada
+
+10
+00:00:58.946 --> 00:01:00.455
+para o tipo de peça.
+
+11
+00:01:03.187 --> 00:01:09.027
+Pergunta rápida. O que a taxa de armadura mede? Quantos kg de aço há em cada m³ de
+
+12
+00:01:09.027 --> 00:01:14.155
+concreto; Quantas barras cabem na peça ou O cobrimento médio das barras?

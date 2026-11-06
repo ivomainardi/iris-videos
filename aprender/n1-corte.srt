@@ -1,0 +1,39 @@
+1
+00:00:00,746 --> 00:00:05,882
+Abra a aba Visualizar. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08,428 --> 00:00:12,196
+Clique em Corte. Liga o corte (tecla C).
+
+3
+00:00:14,724 --> 00:00:20,280
+Clique numa face. O plano de corte nasce paralelo à face clicada. Uma laje dá um corte
+
+4
+00:00:20,280 --> 00:00:26,096
+horizontal; uma parede, um corte vertical. Por que isso importa: O corte mostra o que fica
+
+5
+00:00:26,096 --> 00:00:31,524
+escondido dentro do modelo: a laje sobre a viga, o forro, a tubulação no entreforro.
+
+6
+00:00:34,040 --> 00:00:41,347
+Mova o plano. Shift + arrastar com o botão esquerdo move o plano. As teclas [ e ] avançam e
+
+7
+00:00:41,347 --> 00:00:42,632
+recuam um passo.
+
+8
+00:00:45,139 --> 00:00:50,251
+Desligue o corte. Desligado tira o corte e o modelo volta inteiro.
+
+9
+00:00:52,762 --> 00:00:58,797
+Pergunta rápida. O corte apaga alguma coisa do modelo? Sim, o lado que foi cortado ou Não,
+
+10
+00:00:58,797 --> 00:01:01,546
+só esconde na vista enquanto está ligado?

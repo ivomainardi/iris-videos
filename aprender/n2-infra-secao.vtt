@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:00.748 --> 00:00:06.100
+Abra a aba Via Permanente. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08.816 --> 00:00:14.588
+Clique em Seção e gabarito. Corta o modelo no km, perpendicular ao eixo, e compara o
+
+3
+00:00:14.588 --> 00:00:16.856
+gabarito com a estrutura cortada.
+
+4
+00:00:19.599 --> 00:00:26.992
+O km da seção. A seção é feita neste km. Digite outro km ou use as setas para andar o passo
+
+5
+00:00:26.992 --> 00:00:28.455
+de "setas a cada".
+
+6
+00:00:32.221 --> 00:00:38.557
+Ande para a frente. Cada clique avança a seção. O desenho e a menor folga mudam junto.
+
+7
+00:00:41.467 --> 00:00:47.156
+Leia a folga. O desenho mostra o gabarito em laranja, a estrutura cortada e a menor folga,
+
+8
+00:00:47.156 --> 00:00:52.908
+com o nome da peça mais perto. Por que isso importa: A folga entre o gabarito e a estrutura
+
+9
+00:00:52.908 --> 00:00:58.407
+é o que garante que o trem passa. Conferir no modelo, km a km, acha o problema antes da
+
+10
+00:00:58.407 --> 00:00:58.723
+obra.
+
+11
+00:01:01.423 --> 00:01:07.759
+Seção no 3D. Leva a câmera até a seção no modelo, olhando no sentido do estaqueamento.
+
+12
+00:01:10.467 --> 00:01:16.368
+Calcular ao longo do trecho. Faz a mesma conta a cada passo do trecho e lista onde a folga
+
+13
+00:01:16.368 --> 00:01:17.811
+fica abaixo do mínimo.
+
+14
+00:01:20.509 --> 00:01:26.647
+Pergunta rápida. O que a Seção e gabarito compara? O greide com o terreno; O gabarito com a
+
+15
+00:01:26.647 --> 00:01:30.493
+estrutura cortada no km ou As velocidades de cada trecho?

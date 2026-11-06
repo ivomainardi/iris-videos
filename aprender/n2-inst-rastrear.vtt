@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.744 --> 00:00:05.712
+Abra a aba Hidráulica. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08.612 --> 00:00:14.861
+Clique em Rastrear rede. Segue a rede a partir de uma peça, pelas conexões do IFC ou pelas
+
+3
+00:00:14.861 --> 00:00:16.388
+peças que se encostam.
+
+4
+00:00:19.085 --> 00:00:24.173
+Rastrear. Depois deste clique, escolha no 3D a peça de partida.
+
+5
+00:00:27.014 --> 00:00:32.822
+Escolha o tubo e conclua. Clique no tubo de queda e aperte Enter, ou Concluir.
+
+6
+00:00:35.636 --> 00:00:40.745
+O caminho. Do tubo de queda saem os ramais de esgoto dos cinco pavimentos. O tubo de
+
+7
+00:00:40.745 --> 00:00:46.279
+ventilação solto não entra: não está ligado a nada. Por que isso importa: Rastrear mostra o
+
+8
+00:00:46.279 --> 00:00:51.569
+que é afetado por uma mudança: trocar o tubo de queda mexe em todos os ramais ligados a
+
+9
+00:00:51.569 --> 00:00:51.812
+ele.
+
+10
+00:00:54.825 --> 00:01:00.518
+Pergunta rápida. Por que o tubo solto não aparece no rastreamento? Porque é muito pequeno;
+
+11
+00:01:00.518 --> 00:01:04.377
+Porque não está ligado à rede ou Porque é de outro pavimento?

@@ -1,0 +1,35 @@
+1
+00:00:00,742 --> 00:00:05,758
+Abra a aba Coordenar. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08,557 --> 00:00:14,761
+Clique em Duplicados. Procura objetos lançados duas vezes: mesmo GlobalId ou mesma
+
+3
+00:00:14,761 --> 00:00:15,517
+geometria.
+
+4
+00:00:18,229 --> 00:00:22,741
+Procurar duplicados. Confere todos os modelos abertos.
+
+5
+00:00:25,585 --> 00:00:31,789
+Clique em Objetos voando. Procura objetos longe de tudo: fora do projeto, a quilômetros, ou
+
+6
+00:00:31,789 --> 00:00:33,697
+fora da altura do pavimento.
+
+7
+00:00:36,599 --> 00:00:38,975
+Procurar objetos voando
+
+8
+00:00:41,906 --> 00:00:47,521
+Pergunta rápida. Por que uma peça duplicada é um problema? Deixa o modelo mais colorido;
+
+9
+00:00:47,521 --> 00:00:52,370
+Conta em dobro no quantitativo e gera interferência falsa ou Não é problema?

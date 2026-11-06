@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.744 --> 00:00:05.664
+Abra a aba Analisar. A ferramenta fica nesta aba da faixa de cima.
+
+2
+00:00:08.516 --> 00:00:14.835
+Clique em Cotas automáticas. Cota comprimento, largura e altura de cada objeto, alinhado ao
+
+3
+00:00:14.835 --> 00:00:16.988
+objeto ou aos eixos do projeto.
+
+4
+00:00:19.688 --> 00:00:25.856
+Cotar os visíveis. Cota tudo o que está visível. Para um pavimento só, isole-o antes.
+
+5
+00:00:28.738 --> 00:00:34.918
+As cotas no 3D. As cotas entram em Medições: aparecem na lista, na exportação e no projeto
+
+6
+00:00:34.918 --> 00:00:41.098
+salvo. Por que isso importa: Cotar um a um leva horas. Com as cotas automáticas, o desenho
+
+7
+00:00:41.098 --> 00:00:43.090
+sai cotado e você só confere.
+
+8
+00:00:46.067 --> 00:00:52.835
+Apagar as automáticas. Apaga só as cotas automáticas; as medidas feitas à mão continuam.
+
+9
+00:00:56.026 --> 00:01:01.936
+Pergunta rápida. Onde as cotas automáticas aparecem depois de feitas? Só na tela, até
+
+10
+00:01:01.936 --> 00:01:07.498
+fechar o Iris; Em Medições, na exportação e no projeto ou Dentro do arquivo IFC?

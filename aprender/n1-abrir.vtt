@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.752 --> 00:00:07.270
+Adicionar modelos IFC. Escolhe um ou mais arquivos .ifc. Também dá para arrastar os
+
+2
+00:00:07.270 --> 00:00:09.704
+arquivos para a janela do Iris.
+
+3
+00:00:12.268 --> 00:00:17.996
+O federado. Cada IFC adicionado entra nesta lista. Vários modelos abertos juntos formam o
+
+4
+00:00:17.996 --> 00:00:23.789
+federado: arquitetura, estrutura, instalações, cada um no seu lugar. Por que isso importa:
+
+5
+00:00:23.789 --> 00:00:29.646
+Coordenar é ver as disciplinas juntas. Interferências, comparações e issues dependem de ter
+
+6
+00:00:29.646 --> 00:00:32.284
+os modelos certos abertos ao mesmo tempo.
+
+7
+00:00:34.798 --> 00:00:40.843
+Salvar o projeto (.iris). Ctrl+S guarda os modelos, as vistas, as issues e os ajustes num
+
+8
+00:00:40.843 --> 00:00:47.025
+arquivo .iris. Na próxima vez, abra o .iris e tudo volta como estava. Por que isso importa:
+
+9
+00:00:47.025 --> 00:00:53.002
+O .iris é o que você manda para a equipe: quem abre vê as mesmas vistas, cortes e issues
+
+10
+00:00:53.002 --> 00:00:53.614
+que você.
+
+11
+00:00:56.126 --> 00:01:02.496
+Pergunta rápida. O que o arquivo .iris guarda? Só a geometria dos modelos; Os modelos, as
+
+12
+00:01:02.496 --> 00:01:08.150
+vistas, as issues e os ajustes do projeto ou Uma cópia do IFC em outro formato?
